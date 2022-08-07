@@ -1,0 +1,13 @@
+C:\Users\peces\source\repos\centerkrovi\centerkrovi\bin\Debug\centerkrovi.exe.config
+C:\Users\peces\source\repos\centerkrovi\centerkrovi\bin\Debug\centerkrovi.exe
+C:\Users\peces\source\repos\centerkrovi\centerkrovi\bin\Debug\centerkrovi.pdb
+C:\Users\peces\source\repos\centerkrovi\centerkrovi\obj\Debug\centerkrovi.csproj.AssemblyReference.cache
+C:\Users\peces\source\repos\centerkrovi\centerkrovi\obj\Debug\centerkrovi.autho.resources
+C:\Users\peces\source\repos\centerkrovi\centerkrovi\obj\Debug\centerkrovi.Properties.Resources.resources
+C:\Users\peces\source\repos\centerkrovi\centerkrovi\obj\Debug\centerkrovi.registr.resources
+C:\Users\peces\source\repos\centerkrovi\centerkrovi\obj\Debug\centerkrovi.csproj.GenerateResource.cache
+C:\Users\peces\source\repos\centerkrovi\centerkrovi\obj\Debug\centerkrovi.csproj.CoreCompileInputs.cache
+C:\Users\peces\source\repos\centerkrovi\centerkrovi\obj\Debug\centerkrovi.exe
+C:\Users\peces\source\repos\centerkrovi\centerkrovi\obj\Debug\centerkrovi.pdb
+C:\Users\peces\source\repos\centerkrovi\centerkrovi\obj\Debug\centerkrovi.dobav.resources
+C:\Users\peces\source\repos\centerkrovi\centerkrovi\obj\Debug\centerkrovi.main.resources
